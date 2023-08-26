@@ -11,7 +11,7 @@ This Flutter project fetches and displays GitHub issues from the Flutter reposit
 
 ## Screenshots
 
-*(You can add screenshots of your app here)*
+![1693092111144](https://github.com/cresidian/github-issues-flutter-app-test/assets/28092346/54babe58-c71c-4cba-9a70-9b156ac1ab7a)
 
 ## Getting Started
 
