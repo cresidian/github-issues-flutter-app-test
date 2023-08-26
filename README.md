@@ -6,8 +6,8 @@ This Flutter project fetches and displays GitHub issues from the Flutter reposit
 
 - View a list of GitHub issues from the Flutter repository.
 - Display detailed information about each issue, including title, description, labels, and status.
-- Navigate through the list of issues and view details.
-- Pull to refresh the issue list for the latest data.
+- Pagination
+- Search
 
 ## Screenshots
 
